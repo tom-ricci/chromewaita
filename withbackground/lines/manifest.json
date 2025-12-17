@@ -1,0 +1,27 @@
+{
+   "description": "A theme based on Adwaita, the design language for GNOME.",
+   "manifest_version": 2,
+   "name": "Chromewaita",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 255, 255, 255 ],
+         "frame": [ 29, 29, 32 ],
+         "frame_incognito": [36, 31, 49],
+         "ntp_background": [ 46, 46, 50 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 255, 255, 255 ],
+         "toolbar": [ 46, 46, 50 ]
+      },
+      "tints": {
+         "buttons": [ -1, 0, 0.9 ],
+         "frame_inactive": [ -1, -1, 0.5 ],
+         "frame_incognito_inactive": [ -1, -1, 0.5 ]
+      },
+      "images": {
+        "theme_ntp_background": "theme_ntp_background.png"
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2"
+}
