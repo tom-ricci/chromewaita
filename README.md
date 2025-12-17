@@ -9,6 +9,9 @@ Working on getting this uploaded to the store. For now:
 2. Unzip it
 3. Go to [chrome://extensions](chrome://extensions), enable developer mode, click `Load unpacked` and select the folder containing the unzipped theme
 
+### variants
+There are variants of this theme in the `withbackground` directory containing curated New Tab background images. If you would like to use one of these, clone the repo and load unpacked. To add your own background image, replace one of the `theme_ntp_background.png` files with your image.
+
 ## development
 Issues/PRs welcome!
 If you need help, see this [guide](https://github.com/mike-u/EditChromeThemes) on editing already created Chrome themes. Google also provides some (limited) [documentation](https://developer.chrome.com/docs/extensions/develop/ui/themes#manifest) for working with themes.
